@@ -1,0 +1,12 @@
+Server path:
+http://localhost/perpus-server/index.php/buku 				-> GET
+http://localhost/perpus-server/index.php/buku/add			-> POST
+http://localhost/perpus-server/index.php/buku/update		-> PUT
+http://localhost//perpus-server/index.php/buku/delete		-> DELETE
+
+
+API Key
+buku-key	: 1234
+buku-key	: buku123
+
+Database 	: db_perpus_rest
